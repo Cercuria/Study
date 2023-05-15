@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -47,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683454520393</updated>
       <workItem from="1683454524784" duration="55000" />
+      <workItem from="1683605454116" duration="27000" />
     </task>
     <servers />
   </component>
